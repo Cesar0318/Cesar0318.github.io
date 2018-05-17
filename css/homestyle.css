@@ -1,0 +1,74 @@
+
+body{
+	background: url(../image/homeimg.jpg) fixed;
+	background-size: cover;
+	background-color: black;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+h1{
+	text-align: left;
+	color: rgb(36, 68, 91);
+	font-family: 'Poiret One', cursive;
+	position: relative;
+	top:17%; 
+    left: 3%;
+	font-size: 80px;	
+	font-weight: bolder;
+}
+
+.slides{
+    display: none;
+    
+}
+.container {
+    top:28%; 
+    left: 50%;
+    color: rgb(8, 81, 33);
+    letter-spacing: 2px;
+    font-family: 'Poiret One', cursive;
+    text-align: left;
+    margin-top: 9%;
+    padding-left: 15%;
+    padding-top: 6%;
+    font-size: 25px;
+}
+div{
+    color: #7b897c;
+}
+
+
+
+/*______NAV. BAR______________________________________*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display:inline-block;
+    color: white;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+
+.other{
+    float: right;
+}
+
+a:hover{
+    color: rgb(2, 112, 106);
+}
+
+

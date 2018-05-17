@@ -1,0 +1,59 @@
+body{
+    background: url(../image/resumeimg.jpg) fixed;
+    background-size: cover;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+object{
+    width: 900px;
+    height: 1200px;
+    margin:5% 20% 20% 23%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*______NAV. BAR______________________________________*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display:inline-block;
+    color: white;
+    text-align: center;
+    padding: 20px 18px;
+    text-decoration: none;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+
+.other{
+    float: right;
+}
+
+a:hover{
+    color: rgb(2, 112, 106);
+}
+
+

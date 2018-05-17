@@ -1,0 +1,75 @@
+
+body{
+    background-color: black;
+    background: url(../image/artbgp.jpeg) fixed;
+    background-size: cover;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 15%;
+}
+
+h1{
+    color: white;
+    margin: 15% 0 60px 30px;
+    font-size: 80px;
+    font-family: 'Poiret One', cursive;
+    text-align: center;
+}
+
+p{
+    color: black;
+    font-size: 20px;
+    padding-bottom: 0px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+
+.polaroid {
+  width: 20%;
+  background-color: white;
+  box-shadow: 0 10px 20px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 5% 5% 5% 5% ;
+  padding: 10px 10px 0 10px;
+  display:inline-block;
+}
+
+.container {
+  text-align: center;
+  padding: 10px 20px;
+
+}
+
+
+
+
+/*______NAV. BAR________________________________________________*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display:inline-block;
+    color: white;
+    text-align: center;
+    padding: 20px 18px;
+    text-decoration: none;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+
+.other{
+    float: right;
+}
+
+a:hover{
+    color: rgb(2, 112, 106);
+}
