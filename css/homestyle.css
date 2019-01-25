@@ -1,6 +1,6 @@
 
 body{
-	background: url(../image/bg/me1.jpg) fixed;
+	background: url(../image/bg/ele.jpg) fixed;
 	background-size: cover;
 	background-color: black;
 	background-repeat: no-repeat;
@@ -9,12 +9,12 @@ body{
 
 h1{
 	text-align: left;
-	color: rgb(36, 68, 91);
+	color:color: #7b897c;
 	font-family: 'Poiret One', cursive;
 	position: relative;
 	top:17%; 
     left: 3%;
-	font-size: 80px;	
+	font-size: 100px;	
 	font-weight: bolder;
 }
 
@@ -57,7 +57,7 @@ li a {
     display:inline-block;
     color: white;
     text-align: center;
-    padding: 20px 16px;
+    padding: 20px 15px;
     text-decoration: none;
     font-size: 18px;
     letter-spacing: 2px;
