@@ -1,6 +1,6 @@
 
 body{
-	background: url(../image/bg/ele.jpg) fixed;
+	background: url(../image/bg/flower.jpeg) fixed;
 	background-size: cover;
 	background-color: black;
 	background-repeat: no-repeat;
@@ -8,12 +8,10 @@ body{
 }
 
 h1{
-	text-align: left;
-	color:color: #7b897c;
+	color: white;
 	font-family: 'Poiret One', cursive;
 	position: relative;
-	top:17%; 
-    left: 3%;
+	margin:15% 25% 0 25%; 
 	font-size: 100px;	
 	font-weight: bolder;
 }
@@ -23,19 +21,16 @@ h1{
     
 }
 .container {
-    top:28%; 
-    left: 50%;
+    padding-top: 30px;
+    margin:0% 25% 0 27%;
     color: rgb(8, 81, 33);
-    letter-spacing: 2px;
+    letter-spacing: 3px;
     font-family: 'Poiret One', cursive;
-    text-align: left;
-    margin-top: 9%;
-    padding-left: 15%;
-    padding-top: 6%;
-    font-size: 25px;
+    font-size: 40px;
 }
 div{
     color: #7b897c;
+    font-weight: bolder;
 }
 
 
