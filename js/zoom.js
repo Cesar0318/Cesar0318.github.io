@@ -13,7 +13,7 @@ productImage.click(function () {
 
     $('.product-image-overlay-close').click(function () {
         productOverlay.fadeOut(100);
-        $('body').css('overflow', 'normal');
+        $('body').css('overflow', 'auto');
     	});
 	});
 });
